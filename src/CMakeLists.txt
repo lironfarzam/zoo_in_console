@@ -1,0 +1,10 @@
+﻿target_sources (ex03_zoo PRIVATE "main.cpp"
+								  "Animal.cpp"
+								  "Factory.cpp"
+								  "Io.cpp"
+								  "Lion.cpp"
+								  "Monkey.cpp"
+								  "Owl.cpp"
+		                          "Location.cpp"
+								  "Zoo.cpp"
+								  )
